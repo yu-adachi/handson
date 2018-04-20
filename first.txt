@@ -1,2 +1,2 @@
-may first doc
+may first doc hoge hoge
 end com
